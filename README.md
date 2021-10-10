@@ -5,4 +5,4 @@ The repository contains a list of projects which I have worked on while reading 
 📚**NOTEBOOKS:**
 
 [**1. SUPERVISED AND UNSUPERVISED LEARNING**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/tree/main/01.%20Supervised%20Unsupervised%20Learning)
-- 
+- The Supervised Unsupervised notebook contains all the fundamental dependencies required to understand Supervised and Unsupervised Learning, Cross Validation, Decision Trees, Classification and Regression. 
